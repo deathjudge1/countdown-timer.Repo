@@ -8,11 +8,10 @@ box-sizing :border-box;
 }
  .container{
   width: 100vw;
-  height: 100vh;
-  background-image: url(images/images.jpeg);
-  background-position: center;
+  height: 105vh;
+  background-image: url(images/nen-hinh-dang-giay-hai-quan-mau-xanh-am-thanh-lich-ket-hop-voi-trang-tri-uong-vang-thiet.jpg);
   background-size: cover;
-  padding: 0 8%;
+  padding: 0 5%;
   position: relative;
 }
 
@@ -27,7 +26,7 @@ box-sizing :border-box;
     font-weight: 600;
  }
  .content h1 span{
-    color:blue;
+    color:gold;
  }
  .content button{
     background: transparent;
@@ -44,6 +43,8 @@ box-sizing :border-box;
     width: 15px;
     margin-left: 10px;
  }
+ 
+ 
  .launch-time{
     display: flex;}
 .launch-time div{
